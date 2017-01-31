@@ -1,4 +1,2 @@
+ruby: '2.3.0'
 script: bundle exec rspec spec
-
-rvm:
-  - 1.27.0

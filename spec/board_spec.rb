@@ -1,5 +1,3 @@
-require 'board'
-
 describe Board do
 
   it 'should create a board' do
