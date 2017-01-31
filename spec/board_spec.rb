@@ -12,5 +12,6 @@ describe Board do
     expect(subject.board.size).to eq 9
   end
 
+  it {should respond_to :display_board}
 
 end
