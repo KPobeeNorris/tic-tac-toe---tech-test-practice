@@ -6,4 +6,12 @@ class Player
     @token = token
   end
 
+  def player1(token)
+    @token = token
+  end
+
+  def player2(token)
+    @token = token
+  end
+
 end
